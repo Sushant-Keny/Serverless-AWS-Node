@@ -1,0 +1,17 @@
+{
+  "name": "serverless-template-nodejs",
+  "version": "1.0.0",
+  "description": "Serverless template with serverless-bundle, serverless-pseudo-parameters",
+  "main": "handler.js",
+  "author": "KenySushant",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "serverless-bundle": "^4.3.1",
+    "serverless-pseudo-parameters": "^2.6.0"
+  }
+}
